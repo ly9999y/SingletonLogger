@@ -7,7 +7,7 @@ They can get the name of Logger's Caller, and then use the name to write log
 
 他们可以获取Logger的调用者，然后写入日志
 
-欢迎加微信好友，多交流
+欢迎加微信好友 WX1113900512，多交流
 
 ![avatar][doge]
 
